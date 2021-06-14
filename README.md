@@ -15,6 +15,7 @@ I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img alt="Mircosoft SQL Server" src="https://img.shields.io/badge/-TSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
 <!---
