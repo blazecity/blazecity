@@ -1,6 +1,6 @@
-<h1>Hi, welcome to my GitHub profile<img alt="Dog emoji gif" src="https://emojis.slackmojis.com/emojis/images/1471045842/804/dog.gif?1471045842"/></h1>
+<h1>Hi, welcome to my GitHub profile<img width="96" alt="Dog emoji gif" src="https://media.giphy.com/media/LCS2nR5eCOHiQ483xt/giphy.gif"/></h1>
 
-I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon.com/icons/svg/552/552009.svg" width="14" /> and work as a specialist for trading and investments at a bank 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. Right now I am practicing with `R` and `LaTeX`, also owed to the fact that the coming semesters are focused on data science. Nevertheless, I am always keen on learning new stuff.
+I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon.com/icons/svg/552/552009.svg" width="14" /> and work as a specialist for trading and investments at a bank 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. Currently, I programm with `Python` and `R` right now, because of the many data science modules I take at school. In my free time I like to work on front-end stuff. Nevertheless, I am always keen on learning new stuff.
 
 <h2>Things I code with</h2>
 <p>
