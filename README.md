@@ -1,6 +1,6 @@
 <h1>Hi, welcome to my GitHub profile<img width="96" alt="Dog emoji gif" src="https://media.giphy.com/media/LCS2nR5eCOHiQ483xt/giphy.gif"/></h1>
 
-I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon.com/icons/svg/552/552009.svg" width="14" /> and work as a specialist for trading and investments at a bank 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. Currently, I programm with `Python` and `R` right now, because of the many data science modules I take at school. In my free time I like to work on front-end stuff. Nevertheless, I am always keen on learning new stuff.
+I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon.com/icons/svg/552/552009.svg" width="14" /> and work as a specialist for trading and investments at a bank 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. At school I'm engaged in data science and in my free time I like to work at some front-end stuff. Right now I also practice with (the super cool language) `Rust`. I'm always keen on learning new things.
 
 <h2>Things I code with</h2>
 <p>
@@ -18,6 +18,7 @@ I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://image.flaticon
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
 </p>
 
 <!---
