@@ -1,6 +1,6 @@
 <h1>Hi, welcome to my GitHub profile<img width="96" alt="Dog emoji gif" src="https://media.giphy.com/media/LCS2nR5eCOHiQ483xt/giphy.gif"/></h1>
 
-I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="14" /> and work as a specialist for trading and investments at a bank 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. At school I'm engaged in data science and in my free time I like to work at some front-end stuff. Right now I also practice with (the super cool language) `Rust`. I'm always keen on learning new things.
+I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="14" /> and work in the trading division at a bank. 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. At school I'm engaged in data science and in my free time I like to work at some front-end stuff. Right now I also practice with (the super cool language) `Rust`. I'm always keen on learning new things.
 
 <h2>Things I code with</h2>
 <p>
