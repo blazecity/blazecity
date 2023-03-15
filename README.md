@@ -4,7 +4,6 @@ I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.
 
 <h2>Things I code with</h2>
 <p>
-<img alt="C Sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img alt="Excel VSTO" src="https://img.shields.io/badge/-Excel%20VSTO-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
 <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white">
@@ -13,7 +12,7 @@ I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img alt="Mircosoft SQL Server" src="https://img.shields.io/badge/-TSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
