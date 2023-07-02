@@ -1,14 +1,12 @@
 <h1>Hi, welcome to my GitHub profile<img width="96" alt="Dog emoji gif" src="https://media.giphy.com/media/LCS2nR5eCOHiQ483xt/giphy.gif"/></h1>
 
-I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="14" /> and work in the trading division at a bank. 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. At school I'm engaged in data science and in my free time I like to work at some front-end stuff. Right now I also practice with (the super cool language) `Rust`. I'm always keen on learning new things.
+I'm Jan, I live in Switzerland <img alt="Swiss flag" src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="14" /> and work in the trading division at a bank. 🏦. I got first introduced to programming at the beginning of my Bachelor (in Business IT 🏫) and since then I code every free minute ♥️. It's really fascinating that you can do so many things with programming. In my free time I like to work at some front-end stuff. Right now I also practice with (the super cool language) `Rust`. I'm always keen on learning new things.
 
 <h2>Things I code with</h2>
 <p>
-<img alt="Excel VSTO" src="https://img.shields.io/badge/-Excel%20VSTO-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
 <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-<img alt="R Lang" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
